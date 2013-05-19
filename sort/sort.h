@@ -1,5 +1,5 @@
-#ifndef _CY_SORT_H_
-#define _CY_SORT_H_
+#ifndef __BASELIB_SORT_H__
+#define __BASELIB_SORT_H__
 
 void heapSort(int numbers[], int len);
 void heapify(int numbers[], int len);
